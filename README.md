@@ -139,16 +139,18 @@ The platform helps users:
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1672" height="941" alt="dashboard" src="https://github.com/user-attachments/assets/ba1dbae5-880c-42c4-9dd8-5d05d65f2b9c" />
 
-### Analytics
-![Analytics](screenshots/analytics.png)
-
-### AI Insights
-![Insights](screenshots/insights.png)
+### Visualizations
+<img width="1408" height="1117" alt="Visulization" src="https://github.com/user-attachments/assets/82bfddf6-d767-4348-89e6-b00b5b67b5e7" />
 
 ### Chat With Data
-![Chat](screenshots/chat.png)
+<img width="1556" height="1011" alt="chat with data" src="https://github.com/user-attachments/assets/51addf3f-1883-487d-9554-26ad6f04374e" />
+
+
+### Ai Insights
+<img width="1404" height="1120" alt="Ai" src="https://github.com/user-attachments/assets/cd871fb4-57b0-4c48-8480-9e31a6e9c1f1" />
+
 
 ---
 
